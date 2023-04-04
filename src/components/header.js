@@ -1,3 +1,5 @@
+import {Link, Outlet, Route, Routes } from "react-router-dom";
+
 export default function Header() {
     return (
         <div className="header">
@@ -8,18 +10,18 @@ export default function Header() {
 
             <div className="menus">
             
-                <div className="home">
-                    HOME
-                </div>
+               
+                    <Link to={"/"}>HOME</Link>
+               
 
-                <div className="shop">
-                    SHOP
-                </div>
+               
+                    <Link to={"/shop"}>SHOP</Link>
+               
 
-                <div className="contacts">
-                    CONTACTS
-                </div>
-
+                
+                    <Link to={"/contacts"}>CONTACTS</Link>
+                
+                <Outlet/>
                 <div className="cart">
                     CART
                 </div>
