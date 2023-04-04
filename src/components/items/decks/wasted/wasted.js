@@ -2,6 +2,7 @@ export default function wasted() {
 
     const wasted = {
         name: 'WASTED PARIS ARIZONA 8" SKATEBOARD DECK (SOUR PINK)',
+        price: "59.99 EUR",
         width: 'width: 8"',
         length: 'length: 31.375"',
         wheelbase: 'wheelbase: 14.2"',

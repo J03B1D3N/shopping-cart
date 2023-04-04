@@ -2,6 +2,7 @@ export default function santaCruz() {
 
     const santaCruz = {
         name: 'SANTA CRUZ DRESSEN ROSE CROSS SHAPED 9.31" SKATEBOARD DECK (BLACK)',
+        price: "79.99 EUR",
         width: 'width: 9.31"',
         length: 'length: 32.36"',
         wheelbase: 'wheelbase: 14.60"',

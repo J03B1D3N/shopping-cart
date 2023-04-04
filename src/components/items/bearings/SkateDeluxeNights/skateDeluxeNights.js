@@ -2,6 +2,7 @@ export default function skateDeluxNights() {
     
     const skateDeluxNights = {
         name: "SKATEDELUXE NIGHTS ABEC7 BEARINGS (BLACK)",
+        price: "39.99 EUR",
         desc1: "high-performance premium bearings with ABEC7 tolerances",
         desc2: "speed ​​rings & spacers for less friction and parallel ball bearings",
         desc3: "single, non-contact, removable rubber shield for easy cleaning and less friction",

@@ -3,6 +3,7 @@ export default function polarNotreDam() {
     const polarNotreDam
  = {
         name: 'POLAR GRUND NOTRE DAME 8.5" SKATEBOARD DECK (MULTI)',
+        price: "69.99 EUR",
         width: 'width: 8.5"',
         length: 'length: 32.125"',
         wheelbase: 'wheelbase: 14.5"',

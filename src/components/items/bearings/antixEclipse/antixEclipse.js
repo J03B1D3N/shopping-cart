@@ -2,6 +2,7 @@ export default function antixEclipse() {
     
     const antixEclipse = {
         name: "ANTIX ECLIPSE CERAMIC BEARINGS (BLACK)",
+        price: "29.99 EUR",
         desc1: "premium ceramic bearings",
         desc2: "black titanium treatment",
         desc3: "white high performance ceramic balls",

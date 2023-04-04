@@ -2,6 +2,7 @@ export default function gonzalezSoldier() {
 
     const gonzalezSoldier = {
         name: 'POLAR GONZALEZ SOLDIER 8.375" SKATEBOARD DECK (MULTI)',
+        price: "49.99 EUR",
         width: 'width: 8.375"',
         length: 'length: 32"',
         wheelbase: 'wheelbase: 14.5"',

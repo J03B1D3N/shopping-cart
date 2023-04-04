@@ -2,6 +2,7 @@ export default function element() {
 
     const element = {
         name: 'ELEMENT X ALCALA MADARS 8" SKATEBOARD DECK (YELLOW)',
+        price: "79.99 EUR",
         width: 'width: 8"',
         length: 'length: 31.75"',
         wheelbase: 'wheelbase: 14.25"',

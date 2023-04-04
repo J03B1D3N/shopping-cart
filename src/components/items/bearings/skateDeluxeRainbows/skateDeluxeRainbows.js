@@ -2,6 +2,7 @@ export default function skateDeluxRainbows() {
     
     const skateDeluxRainbows = {
         name: "SKATEDELUXE RAINBOWS BEARINGS (MULTI)",
+        price: "29.99 EUR",
         desc1: "colourful titanium treatment",
         desc2: "high-speed inner ring & high-quality race",
         desc3: "single, non-contact, removable rubber shield for easy cleaning and less friction",
