@@ -12,7 +12,8 @@ export default function element() {
         desc2: 'standard popsicle shape',
         desc3: '7-ply construction',
         desc4: 'artwork by Alcala',
-        desc5: 'Madars Apse pro model'
+        desc5: 'Madars Apse pro model',
+        src: './162494-0-Element-xAlcalaMadars8.webp'
     }
     return element
 }

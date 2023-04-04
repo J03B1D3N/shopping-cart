@@ -13,7 +13,8 @@ export default function polarNotreDam() {
         desc2: 'standard popsicle shape',
         desc3: '7-ply construction',
         desc4: 'photography by Paul Grund',
-        desc5: 'Paul Grund pro model'
+        desc5: 'Paul Grund pro model',
+        src: './164274-0-Polar-GrundNotreDame825.webp'
     }
     return polarNotreDam
 

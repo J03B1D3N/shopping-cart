@@ -12,7 +12,8 @@ export default function santaCruz() {
         desc2: 'shaped',
         desc3: '7-ply construction',
         desc4: 'artwork by Yaia',
-        desc5: 'Eric Dressen pro model'
+        desc5: 'Eric Dressen pro model',
+        src: './161835-0-SantaCruz-DressenRoseCrossShaped931.webp'
     }
     return santaCruz
 }

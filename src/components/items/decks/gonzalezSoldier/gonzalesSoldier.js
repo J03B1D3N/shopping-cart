@@ -12,7 +12,8 @@ export default function gonzalezSoldier() {
         desc2: 'standard popsicle shape',
         desc3: '7-ply construction',
         desc4: 'artwork by Pontus Alv',
-        desc5: 'Roman Gonzalez pro model'
+        desc5: 'Roman Gonzalez pro model',
+        src: './164286-0-Polar-GonzalezSoldier8375.webp'
     }
     return gonzalezSoldier
 }

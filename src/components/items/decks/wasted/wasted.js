@@ -10,7 +10,8 @@ export default function wasted() {
 
         desc1: 'medium concave',
         desc2: 'standard popsicle shape',
-        desc3: '7-ply construction'
+        desc3: '7-ply construction',
+        src: './164852-0-WastedParis-Arizona8.webp'
     }
     return wasted
 }
