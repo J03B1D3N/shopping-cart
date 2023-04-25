@@ -5,10 +5,12 @@ import Shop from "./menu/shop.js"
 
 export default function Main() {
     return (
-        <Routes>
-            <Route path="/" element={<Home/>}/>
-            <Route path="/shop" element={<Shop/>}/>
-            <Route path="/contacts" element={<Contacts/>}/>
-        </Routes>
+        <div className="main">
+            <Routes>
+                <Route path="/" element={<Home/>}/>
+                <Route path="/shop" element={<Shop/>}/>
+                <Route path="/contacts" element={<Contacts/>}/>
+            </Routes>
+        </div>
     )
 }

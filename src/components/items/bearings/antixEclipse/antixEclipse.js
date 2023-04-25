@@ -9,7 +9,7 @@
         desc5: "without rubber shields for easy cleaning and less friction",
         desc6: "speed ​​rings and spacers for less friction and parallel ball bearings",
         contents: "contents: set of 8 Antix Eclipse Ceramic bearings, 4 spacers, 8 speed rings",
-        src: "./148429-0-Antix-EclipseCeramic.webp"
+        src: "148429-0-Antix-EclipseCeramic.webp"
     }
     
     export default antixEclipse
