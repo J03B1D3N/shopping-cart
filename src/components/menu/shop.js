@@ -12,7 +12,7 @@ import skateDeluxNightsIMG from "../items/bearings/SkateDeluxeNights/83544-0-ska
 import skateDeluxRainbowsIMG from "../items/bearings/skateDeluxeRainbows/148427-0-skatedeluxe-Rainbows.webp"
 import titaniumsSkateDeluxeIMG from "../items/bearings/titaniumsSkateDeluxe/148425-0-skatedeluxe-Titaniums.webp"
 
-//decksgit
+//decks
 import element from "../items/decks/element/element"
 import gonzalezSoldier from "../items/decks/gonzalezSoldier/gonzalesSoldier"
 import polarNotreDam from "../items/decks/PolarNotreDam/PolarNotreDam"
@@ -61,15 +61,39 @@ export default function Shop() {
 
     const bearings  = [antixEclipse, independentGPB, skateDeluxNights, skateDeluxRainbows, titaniumsSkateDeluxe]
     const bearingImgs = [antixEclipseIMG, independentGPBIMG, skateDeluxNightsIMG, skateDeluxRainbowsIMG, titaniumsSkateDeluxeIMG]
+
     const decks = [element, gonzalezSoldier, polarNotreDam, santaCruz, wasted]
+    const decksImgs = [elementIMG, gonzalezSoldierIMG, polarNotreDamIMG, santaCruzIMG, wastedIMG]
+
     const trucks = [ace, independentDelfino, independentIndependent, independentPrimitive, independentReynolds]
+    const trucksImgs = [aceIMG, independentDelfinoIMG, independentIndependentIMG, independentPrimitiveIMG, independentReynoldsIMG]
+
     const wheels = [OJWheels, skatedeluceBarbedwire, skatedeluxeCanClassic, skatedeluxeFidelity, skatedeluxeFLame]
+    const wheelsImgs = [OJWheelsIMG, skatedeluceBarbedwireIMG, skatedeluxeCanClassicIMG, skatedeluxeFidelityIMG, skatedeluxeFLameIMG]
 
     return <>
         <div className="shop">
             {bearings.map((element, index) => {
                 return <div className="item">
                     <img src={bearingImgs[index]} alt="img"></img>
+                    <p className="itemTitle">{element.name}</p>
+                </div>
+            })}
+            {decks.map((element, index) => {
+                return <div className="item">
+                    <img src={decksImgs[index]} alt="img"></img>
+                    <p className="itemTitle">{element.name}</p>
+                </div>
+            })}
+            {trucks.map((element, index) => {
+                return <div className="item">
+                    <img src={trucksImgs[index]} alt="img"></img>
+                    <p className="itemTitle">{element.name}</p>
+                </div>
+            })}
+            {wheels.map((element, index) => {
+                return <div className="item">
+                    <img src={wheelsImgs[index]} alt="img"></img>
                     <p className="itemTitle">{element.name}</p>
                 </div>
             })}

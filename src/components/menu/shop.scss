@@ -17,6 +17,7 @@ $itemSize: 200px;
     grid-auto-columns: min-content;
     grid-auto-rows: min-content;
     text-align: center;
+    overflow-y: auto;
     .item {
         margin: 20px;
         display: flex;
