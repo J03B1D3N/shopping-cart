@@ -1,5 +1,5 @@
 
-    const skatedeluxeBarbedwire = {
+    const skatedeluxeCanClassic = {
         name: 'SKATEDELUXE CAN CLASSIC ADV WHEELS (NATURAL) 53MM 100A 4 PACK',
         height: 'height: 53 mm',
         width: 'width: 30,5 mm',
@@ -15,4 +15,4 @@
         src: './155453-0-skatedeluxe-CanClassicADV.webp'
     }
    
-    export default skatedeluxeBarbedwire
+    export default skatedeluxeCanClassic
