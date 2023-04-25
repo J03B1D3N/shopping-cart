@@ -1,5 +1,4 @@
-export default function antixEclipse() {
-    
+
     const antixEclipse = {
         name: "ANTIX ECLIPSE CERAMIC BEARINGS (BLACK)",
         price: "29.99 EUR",
@@ -12,5 +11,5 @@ export default function antixEclipse() {
         contents: "contents: set of 8 Antix Eclipse Ceramic bearings, 4 spacers, 8 speed rings",
         src: "./148429-0-Antix-EclipseCeramic.webp"
     }
-     return antixEclipse
-}
+    
+    export default antixEclipse

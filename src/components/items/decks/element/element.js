@@ -1,4 +1,3 @@
-export default function element() {
 
     const element = {
         name: 'ELEMENT X ALCALA MADARS 8" SKATEBOARD DECK (YELLOW)',
@@ -16,5 +15,5 @@ export default function element() {
         desc5: 'Madars Apse pro model',
         src: './162494-0-Element-xAlcalaMadars8.webp'
     }
-    return element
-}
+   
+    export default element

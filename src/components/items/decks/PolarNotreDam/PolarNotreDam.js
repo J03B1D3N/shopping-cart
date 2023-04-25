@@ -1,7 +1,5 @@
-export default function polarNotreDam() {
 
-    const polarNotreDam
- = {
+    const polarNotreDam = {
         name: 'POLAR GRUND NOTRE DAME 8.5" SKATEBOARD DECK (MULTI)',
         price: "69.99 EUR",
         width: 'width: 8.5"',
@@ -17,6 +15,5 @@ export default function polarNotreDam() {
         desc5: 'Paul Grund pro model',
         src: './164274-0-Polar-GrundNotreDame825.webp'
     }
-    return polarNotreDam
-
-}
+  
+    export default polarNotreDam

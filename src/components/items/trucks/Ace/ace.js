@@ -1,4 +1,3 @@
-export default function ace() {
 
     const ace = {
         name: 'ACE 44 CLASSIC 5.75" TRUCK (SAPPHIRE) 8.35"',
@@ -17,5 +16,5 @@ export default function ace() {
         desc7: "powder coated",
         src: './150197-0-Ace-44Classic575.webp'
     }
-    return ace
-}
+   
+    export default ace

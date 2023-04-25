@@ -1,4 +1,3 @@
-export default function santaCruz() {
 
     const santaCruz = {
         name: 'SANTA CRUZ DRESSEN ROSE CROSS SHAPED 9.31" SKATEBOARD DECK (BLACK)',
@@ -16,5 +15,5 @@ export default function santaCruz() {
         desc5: 'Eric Dressen pro model',
         src: './161835-0-SantaCruz-DressenRoseCrossShaped931.webp'
     }
-    return santaCruz
-}
+   
+    export default santaCruz

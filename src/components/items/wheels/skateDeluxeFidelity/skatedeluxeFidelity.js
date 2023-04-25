@@ -1,4 +1,3 @@
-export default function skatedeluxeFidelity() {
 
     const skatedeluxeFidelity = {
         name: 'SKATEDELUXE FIDELITY SERIES WHEELS (BLACK) 52MM 100A 4 PACK',
@@ -16,5 +15,5 @@ export default function skatedeluxeFidelity() {
         desc5: 'Fidelity series',
         src: './125407-0-skatedeluxe-FidelitySeries.webp'
     }
-    return skatedeluxeFidelity
-}
+   
+    export default skatedeluxeFidelity

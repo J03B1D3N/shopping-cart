@@ -1,4 +1,3 @@
-export default function skatedeluxeBarbedwire() {
 
     const skatedeluxeBarbedwire = {
         name: 'SKATEDELUXE CAN CLASSIC ADV WHEELS (NATURAL) 53MM 100A 4 PACK',
@@ -15,5 +14,5 @@ export default function skatedeluxeBarbedwire() {
         desc5: 'Can series',
         src: './155453-0-skatedeluxe-CanClassicADV.webp'
     }
-    return skatedeluxeBarbedwire
-}
+   
+    export default skatedeluxeBarbedwire

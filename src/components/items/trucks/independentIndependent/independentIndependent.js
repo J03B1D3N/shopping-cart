@@ -1,4 +1,3 @@
-export default function independentIndependent() {
 
     const independentIndependent = {
         name: 'INDEPENDENT 149 STAGE 11 BAR STANDARD TRUCK (FLAT BLACK) 8.5"',
@@ -15,5 +14,5 @@ export default function independentIndependent() {
         desc5: 'logo print on the hanger',
         src: './147560-0-Independent-144Stage11BarStandard.webp'
     }
-    return independentIndependent
-}
+   
+    export default independentIndependent

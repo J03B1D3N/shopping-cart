@@ -1,4 +1,3 @@
-export default function independentReynolds() {
 
     const independentReynolds = {
         name: 'INDEPENDENT 144 MID REYNOLDS BLOCK HOLLOW TRUCK (SILVER) 8.25"',
@@ -15,5 +14,5 @@ export default function independentReynolds() {
         desc5: 'Andrew Reynolds signature truck',
         src: './147536-0-Independent-149MidReynoldsBlockHollow.webp'
     }
-    return independentReynolds
-}
+   
+    export default independentReynolds

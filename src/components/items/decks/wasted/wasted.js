@@ -1,4 +1,3 @@
-export default function wasted() {
 
     const wasted = {
         name: 'WASTED PARIS ARIZONA 8" SKATEBOARD DECK (SOUR PINK)',
@@ -14,5 +13,5 @@ export default function wasted() {
         desc3: '7-ply construction',
         src: './164852-0-WastedParis-Arizona8.webp'
     }
-    return wasted
-}
+   
+    export default wasted

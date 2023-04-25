@@ -1,4 +1,3 @@
-export default function skatedeluceBarbedwire() {
 
     const skatedeluceBarbedwire = {
         name: 'SKATEDELUXE BARBWIRE CONICAL ADV WHEELS (NATURAL) 52MM 100A 4 PACK',
@@ -15,5 +14,5 @@ export default function skatedeluceBarbedwire() {
         desc5: 'Barbwire series',
         src: './155428-0-skatedeluxe-BarbwireConicalADV.webp'
     }
-    return skatedeluceBarbedwire
-}
+   
+    export default skatedeluceBarbedwire

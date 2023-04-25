@@ -1,6 +1,5 @@
-export default function independentPrrimitive() {
 
-    const independentPrrimitive = {
+    const independentPrimitive = {
         name: 'INDEPENDENT X PRIMITIVE 139 STAGE 11 MID TRUCK (GOLD) 8"',
         axlewWidth: 'axle width: 8" (203 mm)',
         hangerWidth: 'hanger width: 5.39" (139 mm)',
@@ -15,5 +14,5 @@ export default function independentPrrimitive() {
         desc5: 'Primitive collab',
         src: './155684-0-Independent-139Stage11Mid.webp'
     }
-    return independentPrrimitive
-}
+   
+    export default independentPrimitive

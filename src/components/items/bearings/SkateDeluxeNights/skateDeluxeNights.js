@@ -1,5 +1,4 @@
-export default function skateDeluxNights() {
-    
+
     const skateDeluxNights = {
         name: "SKATEDELUXE NIGHTS ABEC7 BEARINGS (BLACK)",
         price: "39.99 EUR",
@@ -12,5 +11,4 @@ export default function skateDeluxNights() {
         contents: "contents: 8 x SK8DLX Nights bearings, 4 x spacer, 8 x speedrings",
         src: "./83544-0-skatedeluxe-NightsABEC7.webp"
     }
-     return skateDeluxNights
-}
+    export default skateDeluxNights

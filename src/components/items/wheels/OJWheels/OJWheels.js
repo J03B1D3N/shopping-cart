@@ -1,4 +1,3 @@
-export default function OJWheels() {
 
     const OJWheels = {
         name: 'OJ PLAIN JANE KEYFRAME WHEELS (WHITE) 52MM 87A 4 PACK',
@@ -16,5 +15,5 @@ export default function OJWheels() {
         desc5: 'OJ series',
         src: './139674-0-OJWheels-PlainJaneKeyframe.webp'
     }
-    return OJWheels
-}
+    
+    export default OJWheels

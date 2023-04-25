@@ -1,4 +1,3 @@
-export default function independentDelfino() {
 
     const independentDelfino = {
         name: 'INDEPENDENT 139 STAGE 11 STANDARD DELFINO HOLLOW TRUCK (SILVER RED) 8"',
@@ -15,5 +14,5 @@ export default function independentDelfino() {
         desc5: 'Pedro Delfino signature truck',
         src: './154527-0-Independent-149Stage11StandardDelfinoHollow.webp'
     }
-    return independentDelfino
-}
+    
+    export default independentDelfino

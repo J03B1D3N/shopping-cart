@@ -1,5 +1,4 @@
-export default function titaniumsSkateDeluxe() {
-    
+
     const titaniumsSkateDeluxe = {
         name: "SKATEDELUXE TITANIUMS BEARINGS",
         price: "29.99 EUR",
@@ -12,5 +11,5 @@ export default function titaniumsSkateDeluxe() {
         contents: "contents: set of 8 skatedeluxe Titaniums bearings, 4 spacers, 8 rubber shields, metal box",
         src: "./148425-0-skatedeluxe-Titaniums.webp"
     }
-     return titaniumsSkateDeluxe
-}
+    
+    export default titaniumsSkateDeluxe

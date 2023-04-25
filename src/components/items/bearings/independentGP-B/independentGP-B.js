@@ -1,6 +1,5 @@
-export default function independentGPB() {
-    
-    const independentGPB = {
+
+const independentGPB = {
         name: "INDEPENDENT GP-B BEARINGS (BLACK)",
         price: "19.99 EUR",
         desc1: "premium steel ball bearings",
@@ -10,5 +9,5 @@ export default function independentGPB() {
         contents: "contents: 8 GP-B bearings, 8 speed rings, 4 spacers",
         src: "./139282-0-Independent-GPB.webp"
     }
-     return independentGPB
-}
+
+    export default independentGPB

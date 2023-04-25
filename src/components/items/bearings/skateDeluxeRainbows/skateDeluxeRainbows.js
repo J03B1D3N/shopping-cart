@@ -1,5 +1,4 @@
-export default function skateDeluxRainbows() {
-    
+
     const skateDeluxRainbows = {
         name: "SKATEDELUXE RAINBOWS BEARINGS (MULTI)",
         price: "29.99 EUR",
@@ -12,5 +11,4 @@ export default function skateDeluxRainbows() {
         contents: "contents: set of 8 skatedeluxe Rainbow bearings, 4 spacers, 8 speed rings, metal box",
         src: "./148427-0-skatedeluxe-Rainbows.webp"
     }
-     return skateDeluxRainbows
-}
+     export default skateDeluxRainbows

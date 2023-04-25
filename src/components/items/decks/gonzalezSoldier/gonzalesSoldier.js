@@ -1,4 +1,3 @@
-export default function gonzalezSoldier() {
 
     const gonzalezSoldier = {
         name: 'POLAR GONZALEZ SOLDIER 8.375" SKATEBOARD DECK (MULTI)',
@@ -16,5 +15,5 @@ export default function gonzalezSoldier() {
         desc5: 'Roman Gonzalez pro model',
         src: './164286-0-Polar-GonzalezSoldier8375.webp'
     }
-    return gonzalezSoldier
-}
+    
+    export default gonzalezSoldier

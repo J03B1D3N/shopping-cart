@@ -1,4 +1,3 @@
-export default function skatedeluxeFLame() {
 
     const skatedeluxeFLame = {
         name: 'SKATEDELUXE FLAME CONICAL ADV WHEELS (BLACK) 53MM 99A 4 PACK',
@@ -16,5 +15,5 @@ export default function skatedeluxeFLame() {
         desc5: 'Flame series',
         src: './155442-0-skatedeluxe-FlameConicalADV.webp'
     }
-    return skatedeluxeFLame
-}
+   
+    export default skatedeluxeFLame
