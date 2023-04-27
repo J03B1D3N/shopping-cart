@@ -5,26 +5,20 @@ export default function Header() {
         <div className="header">
 
             <div className="title">
-                JOE BIDEN'S SKATEBOARDS
+                BOARDS OF BIDEN
             </div>
 
             <div className="menus">
             
-               
                     <Link to={"/"}>HOME</Link>
-               
-
-               
+    
                     <Link to={"/shop"}>SHOP</Link>
                
-
-                
                     <Link to={"/contacts"}>CONTACTS</Link>
-                
+
+                    <Link to={"/cart"}>CART</Link>                
                 <Outlet/>
-                <div className="cart">
-                    CART
-                </div>
+                
             </div>
 
         </div>
