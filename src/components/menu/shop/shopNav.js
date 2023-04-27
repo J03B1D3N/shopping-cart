@@ -8,23 +8,20 @@ export default function ShopNav() {
     return <>
         <div className="shopNav">
 
-        <Link to={"/shop/nav/allItems"}>ALL ITEMS</Link>
+        <Link to={"/shop/nav/items/allItems"}>ALL ITEMS</Link>
 
-        <Link to={"/shop/nav/bearings"}>BEARINGS</Link>
+        <Link to={"/shop/nav/items/bearings"}>BEARINGS</Link>
 
-        <Link to={"/shop/nav/trucks"}>TRUCKS</Link>
+        <Link to={"/shop/nav/items/trucks"}>TRUCKS</Link>
 
-        <Link to={"/shop/nav/wheels"}>WHEELS</Link>    
+        <Link to={"/shop/nav/items/wheels"}>WHEELS</Link>    
 
-        <Link to={"/shop/nav/decks"}>DECKS</Link> 
-
-        </div>
-
-        <div className="shop">
-
-            <Outlet/>
+        <Link to={"/shop/nav/items/decks"}>DECKS</Link> 
 
         </div>
+
+        <Outlet/>
+
     </>
     
     
