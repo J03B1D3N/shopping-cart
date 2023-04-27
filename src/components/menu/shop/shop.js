@@ -1,26 +1,7 @@
+import { Outlet } from "react-router-dom";
 
+export default function Shop () {
 
+    return <Outlet/>
 
-
-
-
-
-
-
-export default function Shop() {
-
-   
-
-    
-
-    
-   
-
-    return <>
-        <div className="shop">
-           
-           
-            
-        </div>
-    </>
 }

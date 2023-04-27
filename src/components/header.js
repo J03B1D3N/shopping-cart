@@ -12,12 +12,11 @@ export default function Header() {
             
                     <Link to={"/"}>HOME</Link>
     
-                    <Link to={"/shop"}>SHOP</Link>
+                    <Link to={"/shop/nav/allItems"}>SHOP</Link>
                
                     <Link to={"/contacts"}>CONTACTS</Link>
 
                     <Link to={"/cart"}>CART</Link>                
-                <Outlet/>
                 
             </div>
 
