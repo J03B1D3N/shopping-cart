@@ -4,7 +4,7 @@ import Footer from "./components/footer.js";
 import Main from "./components/main.js";
 import {BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.scss"
-import "./components/menu/shop.scss"
+import "./components/menu/shop/shop.scss"
 
 
 

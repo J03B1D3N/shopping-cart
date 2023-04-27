@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router-dom"
 import Home from "./menu/home.js"
 import Contacts from "./menu/contacts.js"
-import Shop from "./menu/shop.js"
+import Shop from "./menu/shop/shop.js"
 import Cart from "./menu/cart.js"
 
 export default function Main() {
